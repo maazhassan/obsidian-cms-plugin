@@ -2,7 +2,7 @@
 	"id": "obsidian-cms-plugin",
 	"name": "Obsidian CMS",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
+	"minAppVersion": "1.11.4",
 	"description": "Export notes as blog posts to Obsidian CMS.",
 	"author": "Maaz Hassan",
 	"authorUrl": "https://maazhassan.net",
